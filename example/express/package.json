@@ -1,0 +1,13 @@
+{
+  "name": "quinn-controllers-example-express",
+  "version": "1.0.0",
+  "description": "Example of using controllers in express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Jan Krems <jan.krems@gmail.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
