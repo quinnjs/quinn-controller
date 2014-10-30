@@ -1,6 +1,6 @@
 {
   "name": "quinn-controller",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An almost simple controller system for quinn",
   "main": "index.js",
   "scripts": {
